@@ -7,7 +7,7 @@
 ](https://github.com/CunmingChen/Android/tree/master/AndroidTest/HelloWorld)  
   
 ## **实验截图：**
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/HelloWorld/hello.png?raw=true#pic_center)  
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/HelloWorld/QQ截图20190318220241.png?raw=true#pic_center)
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/HelloWorld/QQ截图20190318220351.png?raw=true#pic_center)  
+![Alt](https://github.com/CunmingChen/HelloWorld/blob/master//hello.png?raw=true#pic_center)  
+![Alt](https://github.com/CunmingChen/HelloWorld/blob/master/QQ截图20190318220241.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/HelloWorld/blob/master/QQ截图20190318220351.png?raw=true#pic_center)  
 
